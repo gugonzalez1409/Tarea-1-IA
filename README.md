@@ -1,6 +1,6 @@
 # Tarea-1-IA
 
-para ejecutar: python3 grafo.py (yo lo hice con bash en windows)
+para ejecutar: python3 grafo.py (yo lo hice con terminal en windows)
 el input debe llamarse 'input.txt' y debe estar en la misma carpeta que el código
 
 el código solo debe ejecutarse una vez y mostrará los resultados
