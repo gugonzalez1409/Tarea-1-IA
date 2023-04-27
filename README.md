@@ -1,6 +1,6 @@
 # Tarea-1-IA
 
-para ejecutar: python3 grafo.py
+para ejecutar: python3 grafo.py (yo lo hice con bash en windows)
 el input debe llamarse 'input.txt' y debe estar en la misma carpeta que el código
 
 el código solo debe ejecutarse una vez y mostrará los resultados
@@ -55,3 +55,5 @@ Nodo F: 1
 Nodo G: 1
 Nodo H: 1
 Total: 9
+
+(en consola se ve más bonito)
